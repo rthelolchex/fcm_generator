@@ -1,1 +1,1 @@
-python3 generate_fcb.py fqnames.txt
+python3 generate_fcm.py fqnames.txt
